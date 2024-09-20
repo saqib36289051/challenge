@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "challange",
-    "slug": "challange",
+    "name": "challenge",
+    "slug": "challenge",
     "version": "1.0.0",
 
-    "scheme": "challange",
+    "scheme": "challenge",
     "web": {
       "bundler": "metro",
       "output": "server",
@@ -14,7 +14,7 @@
       [
         "expo-router",
         {
-          "origin": "https://challange.dev/"
+          "origin": "https://challenge.dev/"
         }
       ]
     ],
