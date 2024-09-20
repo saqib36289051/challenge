@@ -1,9 +1,12 @@
 import { Stack } from 'expo-router';
-import { StyleSheet, View } from 'react-native';
+import { useEffect, useState } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
 
-import { ScreenContent } from '~/components/ScreenContent';
+import { ScreenContent } from '@/components/ScreenContent';
+import { Button } from '@/components/Button';
 
 export default function Home() {
+
   return (
     <>
       <Stack.Screen options={{ title: 'Tab One' }} />
