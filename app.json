@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "chanllange",
-    "slug": "chanllange",
+    "name": "challange",
+    "slug": "challange",
     "version": "1.0.0",
 
-    "scheme": "chanllange",
+    "scheme": "challange",
     "web": {
       "bundler": "metro",
       "output": "server",
@@ -14,7 +14,7 @@
       [
         "expo-router",
         {
-          "origin": "https://chanllange.dev/"
+          "origin": "https://challange.dev/"
         }
       ]
     ],
